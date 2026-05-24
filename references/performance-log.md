@@ -34,3 +34,4 @@ No specific format needed. Examples:
 - "The bold direct CTA is underperforming vs the soft curious one."
 
 Claude formats the entry, scans for cross-entry patterns, and gives you a commit-ready update.
+<!-- agent initialized 2026-05-24 -->
