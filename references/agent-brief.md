@@ -16,10 +16,19 @@
 - **Expression range is the primary authenticity signal** — Ad 10: 6+ distinct emotional states. Flat delivery reads as scripted = lower trust = lower CVR.
 - **High CPM does not mean worse performance** — Ad 10 had highest CPM (RM58.40) and best CPA (RM32.39). CPM reflects intent-quality traffic.
 
-## What's Fatiguing (as of 2026-05-28)
+## Active Ad Sets (as of 2026-05-28 daily snapshot)
 
-- **BROAD 1** — Original "25 years/3 days" confessional. Running 23 days. Likely fatiguing.
-- **BROAD 10** — C5 winner. CPP deteriorated from RM32.39 → RM56.89. RM73 spent with 0 new purchases in last 3 days. New creative urgently needed.
+| Ad Set | Today Spend | Today Purchases | Today CPP | Status |
+|--------|-------------|-----------------|-----------|--------|
+| BROAD 1 | RM20.31 | 0 | — | Fatiguing — kill if 0 tomorrow |
+| BROAD 10 | RM24.75 | 1 | RM24.75 | Still converting — keep running |
+| BROAD 11 | RM18.60 | 1 | RM18.60 | Still converting — keep running |
+| BROAD 13 | RM18.17 | 0 | — | Day 1 — assess after 3–5 days |
+
+- **BROAD 1:** Fatigue confirmed. 0 purchases on RM20.31 today.
+- **BROAD 10:** Revised — earlier 3-day dry spell was variance. 1 purchase at RM24.75 CPP today (well below cumulative RM56.89). Keep live.
+- **BROAD 11:** Same — 1 purchase at RM18.60 today. Better than cumulative RM128.76. Keep live.
+- **BROAD 13:** New ad set, day 1. Unknown creative — monitor.
 
 ---
 
