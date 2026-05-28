@@ -40,6 +40,7 @@
 - Casual fitted top — ribbed or plain. Nothing fashion-forward.
 - Not conventionally "pretty" — real, approachable, looks like a real friend.
 - Setting: night, single warm amber lamp, real lived-in room (laptop, water bottle, skincare on desk, bed in background). Messy is fine. Avoid: daytime, bright white rooms, ring lights, tripod visible, styled set.
+- **No production equipment in background** — no tripod, no ring light stand. Both were visible in BROAD 11 background and confirmed to break authenticity signal.
 
 ## Avatar Rules — Wei (secondary)
 
@@ -55,7 +56,7 @@
 3. Before-state (vulnerability)
 4. Reversal ("now I want it more than him")
 5. Credit the product casually
-6. Hold product at second 10–11 minimum — never before second 9, not even passively resting in frame
+6. Product must be **physically absent from frame** before second 9 — not just "not held." Resting on floor or table in foreground counts as visible (confirmed: BROAD 11 had product on floor from sec 0, CVR 0.52% vs BROAD 10's 2.44%)
 7. Affectionate product interaction preferred (kiss, press to cheek) — destigmatises without words
 8. Hard CTA: "Link below. Faster! Don't wait!" + direct point at camera
 
