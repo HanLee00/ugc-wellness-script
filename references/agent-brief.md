@@ -30,18 +30,60 @@
 
 ---
 
-## Active Ad Sets (June 2026 — after reallocation)
+## Campaign Structure (June 2026)
 
-| Ad Set | Budget/day | Hook Type | Core Angle | CPP (May) | Status |
-|--------|-----------|-----------|-----------|-----------|--------|
-| BROAD-14 | RM50 | Relationship pain | Desire gap / friction | RM31.09 ⭐ | Scale — best CPP |
-| BROAD-13 | RM40 | Urgency | Lifestyle outcome | RM41.83 | Scale — second best CPP |
-| BROAD-11 | RM35 | ZH relationship confession | Couple discovery | RM67.29 | Awareness engine |
-| BROAD-10 | RM30 | Silent stare | Desire/outcome exceeded | RM66.03 | Converting |
-| BROAD-15–19 | RM20 each | Various | Various | — | Hold — assess after 5 days |
-| BROAD-1 | RM10 | Revelation/confession | Body autonomy | RM77.89 | Winding down |
+- **OV1 5/5** — scaling campaign. Proven ad sets only. No new creatives ever added here.
+- **OV2 TEST** — testing campaign. All new creatives (BROAD 20+) launch here at RM20/day. Max 4 concurrent.
+- Never edit a running ad set — duplicate it, pause original, run duplicate.
 
-**Scaling rule:** Check CPP day 3 and day 5. Increase 20–30% only if GREEN or YELLOW. Never >30% in one move. Minimum 5 days between adjustments on any ad set.
+## Active Ad Sets — OV1 (June 3, 2026)
+
+| Ad Set | Budget/day | CPP | Status |
+|--------|-----------|-----|--------|
+| BROAD 14 | RM50 | RM49.90 GREEN ⭐ | Hold — relationship pain angle |
+| BROAD 13 | RM40 | RM59.83 GREEN | Hold — urgency angle |
+| BROAD 11 | RM30 | RM48.57 GREEN | Hold — ZH awareness engine |
+| BROAD 10 | RM25 | Approaching RED (freq 1.45) | Watch closely |
+| BROAD 15–19 | RM20 each | Insufficient data | Run to RM150 spend |
+
+**Scaling rule:** Increase budget 20–30% only after CPP holds GREEN for 3+ consecutive days. Maximum once per 5 days. Never >30% in a single adjustment.
+
+## Kill Rule (applies to both campaigns)
+
+```
+RM150 minimum spend before any purchase-based kill decision.
+
+At RM150:
+  CTR <2% + 0 purchases   → PAUSE
+  CTR >2% + 0 purchases   → extend to RM200
+  1+ purchases, CPP <RM84 → KEEP, evaluate at RM300
+  1+ purchases, CPP 84–120 → KEEP, evaluate at RM300
+  CPP >RM120 for 3 days   → PAUSE
+
+At RM300:
+  CPP <RM84  → PROMOTE to OV1 (if OV2) / +20–30% budget (if OV1)
+  CPP 84–120 → hold, monitor weekly
+  CPP >RM120 → PAUSE
+```
+
+## Promotion Protocol: OV2 → OV1
+
+**Trigger:** spend ≥ RM150 AND CPP < RM84 AND purchases ≥ 3
+
+1. Duplicate winning ad set into OV1
+2. Set RM30/day (not RM20 — and not RM50; RM30 exits learning faster)
+3. No edits, no budget changes for 7 days
+4. Day 7+: increase to RM50/day if CPP GREEN or YELLOW
+5. Pause weakest OV1 ad set simultaneously (prevent fragmentation)
+6. Pause (don't delete) original OV2 version
+
+## Next Creative: BROAD 20
+
+- Campaign: OV2 TEST. Language: EN. Angle: Relationship pain (same as BROAD 14).
+- Hook: Different line from BROAD 14 — testing angle repeatability vs execution specificity.
+- CTA: Direct verbal, playful. Resolution: 4K. Format: UGC talking head 15s 9:16.
+- If BROAD 20 hits GREEN CPP → relationship pain angle confirmed scalable.
+- If not → BROAD 14 was execution-specific, not angle-specific.
 
 ---
 
