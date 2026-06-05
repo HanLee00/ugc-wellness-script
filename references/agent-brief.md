@@ -1,6 +1,6 @@
 # Oh! Venus — UGC Agent Brief
 > Maintained by OHVENUS-KB. Pushed to GitHub after every KB update.
-> Last updated: 2026-06-03
+> Last updated: 2026-06-05
 
 ---
 
@@ -17,34 +17,36 @@
 ## Confirmed Conversion Patterns
 
 - **C5 Relationship Confession converts at 2.5x all other formats** — Ad 10: RM32.39 CPA, 10.66 ROAS, 2.44% LP→Purchase vs next best 0.97%.
-- **Relationship pain angle (BROAD-14) = best CPP May at RM31.09.** BROAD-14 itself is being retired (weak hold rate 34–37%, 0 June purchases). BROAD-20 inherits the angle with fixed execution.
-- **Hold rate is the execution quality signal.** Winning ads hold 48–74%. BROAD-14 was 34–37% — it lost people after the hook in BOTH months. Slow the body arc. Don't rush to the product.
+- **Relationship pain angle = best CPP May at RM31.09** (BROAD-14). BROAD-14 retired (weak hold rate 34–37%, 0 June purchases). BROAD-20 inherits the angle with fixed execution.
+- **ZH relatable pain converts** — BROAD-17 (female self-reliance, "When hubby's tired, it's not") has confirmed June purchases. First ZH creative to convert cleanly.
+- **Hold rate is the execution quality signal.** Winning ads hold 48–74%. BROAD-14 was 34–37% — lost people after the hook in both months. Slow the body arc. Don't rush to the product.
 - **Product visible before second 9 = conversion collapse** — Ad 9 (sec 2): 0 purchases. Ad 11 (sec 0 passive): 0.52% CVR. Ad 10 (sec 9): 2.44% CVR. Rule: product not visible in ANY form before second 9.
 - **Night/amber lighting outperforms daytime** — Ad 10 (night amber): 2.44% CVR. Ad 11 (same script, daytime bright): 0.52% CVR.
 - **English outperforms Mandarin on Meta cold audience** — same concept, Ad 10 English 2.44% vs Ad 11 Mandarin 0.52%. Use Mandarin for warm/retarget only.
 - **Hard urgency CTA outperforms soft/visual CTA** — "Link below. Faster! Don't wait!" >> "懂的都懂" >> visual-only. Pattern confirmed across BROAD-10, 14 (best CPP) vs BROAD-1 (worst CPP).
 - **Hook rate does NOT predict CPP** — BROAD-11: 42.3% hook rate, mid CPP. BROAD-14: 37.2% hook rate, best CPP. Hook rate = creative quality signal, not conversion signal.
-- **Curiosity hooks drive watch, not wallets** — Ad 9: RM96 spend, 0 purchases.
-- **Man-buyer framing kills purchase intent** — Ad 9: RM96 spend, 0 purchases.
+- **Curiosity/suggestive visual hooks drive watch, not wallets** — Ad 9: RM96, 0 purchases. BROAD-19: 72.2% hold rate, 11.7% link CTR, 0 purchases. Entertainment seekers click, don't buy.
+- **Man-buyer framing kills click intent** — BROAD-16 (male gifting): 3.6% link CTR, 16 clicks on RM18.81. BROAD-19 (same budget, suggestive visual): 11.7% CTR, 58 clicks. Buyer is female-directed — male framing produces weak intent.
 - **Expression range is the primary authenticity signal** — Ad 10: 6+ distinct emotional states. Flat delivery = scripted = lower trust.
 - **Moby drives volume (36% orders), Whisper drives revenue (43%)** — product mix determined at browse stage, not ad stage.
 
 ---
 
-## June 2026 — Active Ad Performance Summary
+## June 2026 — Active Ad Status (as of June 5)
 
-| Ad | Hook Rate | Hold Rate | CPLC | CPM | Purchases (Meta) | Status |
-|----|-----------|-----------|------|-----|------------------|--------|
-| 11 (ZH confession) | 41% | 48% | RM0.32 | RM26 | 2 ✅ | Keep — account anchor |
-| 13 (EN urgency) | 41% | 52% | RM0.50 | RM40 | 0 (2 May) | Keep — metrics improving |
-| 19 (ZH drama) | 52% | **74%** | RM0.37 | RM38 | 0 verified | Keep — best hold in batch |
-| 18 (ZH travel) | 39% | 64% | RM0.47 | RM32 | 1* | Keep |
-| 17 (ZH self-reliance) | 45% | 67% | RM0.58 | RM41 | 1* | Keep |
-| 16 (ZH male POV) | 49% | 55% | RM0.53 | RM44 | 0 | Too early |
-| 14 (EN relationship pain) | 30% | 37% | RM0.91 | RM42 | 0 Jun | **RETIRING** — age fatigue, weak hold |
-| 10 (EN C5) | 42% | 46% | RM0.72 | RM50 | 0 Jun | **RETIRING** — high CPM, declining trend |
+| Ad | Angle | Lang | Hook Rate | Hold Rate | Link CTR | CPP | Purchases | Status |
+|----|-------|------|-----------|-----------|----------|-----|-----------|--------|
+| 11 (ZH confession) | Relationship confession | ZH | 48.7% | 47.9% | 9.1% | RM67 (May) | 2+ ✅ | Keep — traffic anchor |
+| 13 (EN urgency) | Lifestyle outcome | EN | 43.2% | 49.8% | 6.4% | RM59 (May) | 2 ✅ | Keep |
+| 17 (ZH self-reliance) | "When hubby's tired, it's not" | ZH | 40.3% | 66.5% | 8.2% | TBC | Yes ✅ | Keep — strongest ZH converter |
+| 18 (ZH travel) | Travel companion / portable comfort | ZH | 35.1% | 53.5% | 3.2% | RM93.02 YELLOW | Yes — not improving | Watch — 2–3 days to improve or pause |
+| 19 (ZH drama) | Suggestive couple visual | ZH | 47.2% | 72.2% | 11.7% | — | 0 | Monitor to RM150 — curiosity creative risk |
+| 16 (ZH male gifting) | Smart husband/boyfriend gifts this | ZH | 44.1% | 48.2% | 3.6% | — | 0 | **PAUSED June 5** — angle mismatch |
+| 14 (EN relationship pain) | Desire gap | EN | 37.2% | 34–37% | — | RM31 (May) | 0 Jun | **RETIRED** — age fatigue, weak hold |
+| 10 (EN C5) | Desire/outcome exceeded | EN | 39.4% | 44.9% | — | RM66 (May) | 0 Jun | **OFF** |
+| 15 (EN reframe) | Relationship quality | EN | 37.0% | 44.1% | — | — | — | **OFF** |
 
-*Meta-attributed, directional only — verify against Shopify
+June 4 note: 0 purchases across all ads (RM170 spend, 355 link clicks). Shopify confirmed 0 — statistical variance. Returning Shopify buyer confirmed June 5, store operational.
 
 ---
 
@@ -79,6 +81,7 @@ At RM300:
 **Age override:** Ads 3+ weeks old with 0 purchases in current month → pause at RM150, don't extend.
 **n=1 caution:** Single purchase below RM150 is noise. Don't scale or label GREEN yet.
 **CPM flag:** >RM55 = audience exhaustion or auction pressure. Investigate before acting on CPP.
+**Executive override:** Angle mismatch confirmed before RM150 threshold — may kill early (e.g. BROAD-16 killed at RM18.81 spend, male gifting angle structural mismatch).
 
 ## Promotion Protocol: OV2 → OV1
 
@@ -100,7 +103,7 @@ At RM300:
 - **Campaign:** OV2 TEST
 - **Language:** English
 - **Angle:** Relationship pain — same angle as BROAD-14. The angle isn't the problem — BROAD-14's execution was. Hold rate was 34–37% in both months. BROAD-20 fixes the body arc.
-- **Core execution fix:** Slow the emotional arc. Don't rush to the product. Mirror BROAD-10 structure — product reveal no earlier than second 9, only after full emotional story. Study BROAD-19's body section (74% hold rate) for structural reference.
+- **Core execution fix:** Slow the emotional arc. Don't rush to the product. Mirror BROAD-10 structure — product reveal no earlier than second 9, only after full emotional story. Study BROAD-19's body section (72% hold rate) for structural reference on keeping people watching.
 - **Hook:** New line — different from BROAD-14's exact open. Test if angle repeats with different wording.
 - **Body:** Build the desire gap slowly. At least 6 seconds of story before any product hint.
 - **CTA:** Direct verbal, playful — "Go to ohvenus.shop." Not soft, not "link in bio."
@@ -110,13 +113,27 @@ At RM300:
 
 ---
 
+## ZH Batch — What We Now Know (June 2026)
+
+| Angle | Creative | Converts? | Why |
+|-------|----------|-----------|-----|
+| Relatable pain — female self-reliance | BROAD-17 | ✅ Yes | Emotional empathy, female-directed, direct relevance |
+| Relationship confession | BROAD-11 | ✅ Yes | Proven C5 structure, ZH-coded |
+| Travel companion | BROAD-18 | ⚠️ Weak | CPP RM93 YELLOW, not improving — niche scenario, small pool |
+| Suggestive visual / drama | BROAD-19 | ❌ 0 purchases | Curiosity creative — high engagement, wrong audience intent |
+| Male gifting POV | BROAD-16 | ❌ Killed | Male framing = wrong buyer lens for this category |
+
+**ZH production rule:** upgrade to 4K only after conversion data confirms the angle works. BROAD-17 converting → consider 4K version next.
+
+---
+
 ## New Angles in Test (BROAD-15–19)
 
-- **BROAD-15 (EN Reframe):** Relationship quality enhancement. Direct verbal CTA. Paused.
-- **BROAD-16 (ZH Male POV/Gifting):** Only male-POV creative in batch. Untouched gifting angle. 720p.
-- **BROAD-17 (ZH Female Self-Reliance):** Woman awake, partner sleeping. 67% hold rate. Strong empathy.
-- **BROAD-18 (ZH Travel Companion):** Couple packing suitcase. 64% hold rate. "小老公" euphemism.
-- **BROAD-19 (ZH Couple Drama):** Flushed cheeks from frame 1. 74% hold rate — best in batch. Mini-drama feel.
+- **BROAD-15 (EN Reframe):** Relationship quality enhancement. Direct verbal CTA. **OFF.**
+- **BROAD-16 (ZH Male POV/Gifting):** Only male-POV creative in batch. **PAUSED June 5** — angle mismatch confirmed.
+- **BROAD-17 (ZH Female Self-Reliance):** Woman awake, partner sleeping. 66.5% hold rate. Converting. Strongest ZH angle in batch.
+- **BROAD-18 (ZH Travel Companion):** Couple packing suitcase. 53.5% hold rate. Has sales, CPP RM93 YELLOW not improving — watch closely.
+- **BROAD-19 (ZH Couple Drama):** Flushed cheeks from frame 1. 72.2% hold rate, 11.7% link CTR — best engagement in batch. 0 purchases. Classic curiosity creative pattern.
 
 ---
 
