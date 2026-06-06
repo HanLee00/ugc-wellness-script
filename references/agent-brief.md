@@ -37,7 +37,7 @@
 | Ad | Angle | Lang | Hook Rate | Hold Rate | Link CTR | CPP | Purchases | Status |
 |----|-------|------|-----------|-----------|----------|-----|-----------|--------|
 | 11 (ZH confession) | Relationship confession | ZH | 48.7% | 47.9% | 9.1% | RM67 (May) | 2+ ✅ | Keep — traffic anchor |
-| 13 (EN urgency) | Lifestyle outcome | EN | 43.2% | 49.8% | 6.4% | RM59 (May) | 2 ✅ | Keep |
+| 13 (EN urgency) | Lifestyle outcome | EN | 43.2% | 49.8% | 6.4% | RM59 (May) | 0 Jun | **PAUSED June 5** — RM141.79 June spend, 252 link clicks, 0 purchases. Converting segment exhausted. |
 | 17 (ZH self-reliance) | "When hubby's tired, it's not" | ZH | 40.3% | 66.5% | 8.2% | TBC | Yes ✅ | Keep — strongest ZH converter |
 | 18 (ZH travel) | Travel companion / portable comfort | ZH | 35.1% | 53.5% | 3.2% | RM93.02 YELLOW | Yes — not improving | Watch — 2–3 days to improve or pause |
 | 19 (ZH drama) | Suggestive couple visual | ZH | 47.2% | 72.2% | 11.7% | — | 0 | Monitor to RM150 — curiosity creative risk |
