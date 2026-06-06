@@ -107,18 +107,20 @@ At RM300:
 - **Avatar:** Natural, no makeup, warm amber night, ECU from second 0. Same spec as C5 winner. 4K.
 
 ### BROAD-21 (ZH — pre-launch)
-- **Language:** ZH | **Angle:** Partner gifting "他懂我" — from woman's POV | **Product:** Venus Pearl
-- **Hook:** Man presents gift box, woman opens expecting jewelry, finds Venus Pearl instead
-- **Script close:** Woman being princess-carried, Venus Pearl to camera: "老公好懂我～"
-- **CTA:** Soft coded. Do not apply hard urgency — register mismatch for gifting format.
-- **Note:** Structurally distinct from BROAD-16 (killed male POV). Woman is protagonist. Closest: BROAD-19 couple drama. If converts, scales the partner gifting ZH narrative.
+- **Language:** ZH | **Format:** Boyfriend/Gift — woman's POV
+- **Hook:** Man presents gift box, woman opens expecting jewelry, surprised face: "这是……"
+- **Story:** He says "我问过你闺蜜的" → she turns to camera, helpless smile → princess carry → still being carried, turns to camera: "老公好懂我～"
+- **Emotional arc:** surprise → disbelief → delight → warmth → being swept away
+- **CTA:** Soft coded. Do not apply hard urgency — register mismatch.
+- **Note:** Woman is protagonist throughout. Structurally distinct from BROAD-16 (killed — man speaking to audience). If converts, opens "partner who gets it" as scalable ZH narrative.
 
 ### BROAD-22 (ZH — pre-launch, after BROAD-21 signal)
-- **Language:** ZH | **Angle:** Single self-reliance — blind date return | **Product:** Venus Pearl
-- **Hook:** Bad blind date, kicks off heels, turns to camera: "又是一个无聊的相亲"
-- **Script close:** "单身不苦，苦的是不知道有它。" (Being single isn't hard — not knowing about this is.)
+- **Language:** ZH | **Format:** Bold Admission / Female Self-Reliance
+- **Hook:** Bad blind date return — kicks off heels, turns to camera: "又是一个无聊的相亲"
+- **Story:** Bedroom drawer reveal → quiet relief → "没有男人也可以。我自己来。" → lying back → "男人都没有它厉害。" → slow smile: "单身不苦，苦的是不知道有它。"
+- **Emotional arc:** tired/flat → quiet relief → unbothered confidence → calm certainty
 - **CTA:** Soft coded. Compliance flag: "男人都没有它厉害" moderate risk — soften to "比什么都舒服" if Seedance flags.
-- **Note:** Extends BROAD-17 (confirmed converter, 66.5% hold). Blind date scenario = broader audience than BROAD-17's married-woman framing. Highest-probability next ZH converter.
+- **Note:** Extends BROAD-17 (confirmed converter, 66.5% hold). Blind date scenario broader than BROAD-17's married-woman framing. Highest-probability next ZH converter.
 
 ---
 
@@ -143,8 +145,8 @@ At RM300:
 - **BROAD-17 (ZH Female Self-Reliance):** Woman awake, partner sleeping. 66.5% hold rate. Converting. Strongest ZH angle in batch.
 - **BROAD-18 (ZH Travel Companion):** Couple packing suitcase. 53.5% hold rate. Has sales, CPP RM93 YELLOW not improving — watch closely.
 - **BROAD-19 (ZH Couple Drama):** Flushed cheeks from frame 1. 72.2% hold rate, 11.7% link CTR — best engagement in batch. 0 purchases. Classic curiosity creative pattern.
-- **BROAD-21 (ZH Gifting "他懂我"):** Partner gifting from woman's POV. Venus Pearl. Pre-launch.
-- **BROAD-22 (ZH Blind Date Self-Reliance):** Single woman, bad blind date, drawer reveal. Extends BROAD-17 angle. Venus Pearl. Pre-launch (launch after BROAD-21 signal).
+- **BROAD-21 (ZH Gifting "他懂我"):** Couple gifting from woman's POV — surprise reaction, princess carry close. Pre-launch.
+- **BROAD-22 (ZH Blind Date Self-Reliance):** Single woman, bad blind date, drawer reveal. Extends BROAD-17 angle. Pre-launch (launch after BROAD-21 signal).
 
 ---
 
