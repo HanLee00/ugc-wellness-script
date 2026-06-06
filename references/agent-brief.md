@@ -1,6 +1,6 @@
 # Oh! Venus — UGC Agent Brief
 > Maintained by OHVENUS-KB. Pushed to GitHub after every KB update.
-> Last updated: 2026-06-05
+> Last updated: 2026-06-07
 
 ---
 
@@ -96,20 +96,29 @@ At RM300:
 
 ---
 
-## Next Creative: BROAD-20
+## Next Creatives: BROAD-20, BROAD-21, BROAD-22
 
-> Priority — produce now and launch into OV2 TEST at RM20/day.
+### BROAD-20 (EN — in queue)
+> Produce and launch into OV2 TEST at RM20/day.
 
-- **Campaign:** OV2 TEST
-- **Language:** English
-- **Angle:** Relationship pain — same angle as BROAD-14. The angle isn't the problem — BROAD-14's execution was. Hold rate was 34–37% in both months. BROAD-20 fixes the body arc.
-- **Core execution fix:** Slow the emotional arc. Don't rush to the product. Mirror BROAD-10 structure — product reveal no earlier than second 9, only after full emotional story. Study BROAD-19's body section (72% hold rate) for structural reference on keeping people watching.
-- **Hook:** New line — different from BROAD-14's exact open. Test if angle repeats with different wording.
-- **Body:** Build the desire gap slowly. At least 6 seconds of story before any product hint.
+- **Language:** English | **Angle:** Relationship pain (inherits BROAD-14 angle, fixed execution)
+- **Core fix:** Slow the arc. Product reveal no earlier than second 9. At least 6 seconds of story before product hint.
 - **CTA:** Direct verbal, playful — "Go to ohvenus.shop." Not soft, not "link in bio."
-- **Avatar:** Natural, no makeup, warm amber night setting. ECU from second 0. No production equipment visible. Same spec as C5 winner.
-- **Resolution:** 4K
-- **Goal:** Confirm relationship pain angle converts a second time AND fix the hold rate failure.
+- **Avatar:** Natural, no makeup, warm amber night, ECU from second 0. Same spec as C5 winner. 4K.
+
+### BROAD-21 (ZH — pre-launch)
+- **Language:** ZH | **Angle:** Partner gifting "他懂我" — from woman's POV | **Product:** Venus Pearl
+- **Hook:** Man presents gift box, woman opens expecting jewelry, finds Venus Pearl instead
+- **Script close:** Woman being princess-carried, Venus Pearl to camera: "老公好懂我～"
+- **CTA:** Soft coded. Do not apply hard urgency — register mismatch for gifting format.
+- **Note:** Structurally distinct from BROAD-16 (killed male POV). Woman is protagonist. Closest: BROAD-19 couple drama. If converts, scales the partner gifting ZH narrative.
+
+### BROAD-22 (ZH — pre-launch, after BROAD-21 signal)
+- **Language:** ZH | **Angle:** Single self-reliance — blind date return | **Product:** Venus Pearl
+- **Hook:** Bad blind date, kicks off heels, turns to camera: "又是一个无聊的相亲"
+- **Script close:** "单身不苦，苦的是不知道有它。" (Being single isn't hard — not knowing about this is.)
+- **CTA:** Soft coded. Compliance flag: "男人都没有它厉害" moderate risk — soften to "比什么都舒服" if Seedance flags.
+- **Note:** Extends BROAD-17 (confirmed converter, 66.5% hold). Blind date scenario = broader audience than BROAD-17's married-woman framing. Highest-probability next ZH converter.
 
 ---
 
@@ -134,6 +143,8 @@ At RM300:
 - **BROAD-17 (ZH Female Self-Reliance):** Woman awake, partner sleeping. 66.5% hold rate. Converting. Strongest ZH angle in batch.
 - **BROAD-18 (ZH Travel Companion):** Couple packing suitcase. 53.5% hold rate. Has sales, CPP RM93 YELLOW not improving — watch closely.
 - **BROAD-19 (ZH Couple Drama):** Flushed cheeks from frame 1. 72.2% hold rate, 11.7% link CTR — best engagement in batch. 0 purchases. Classic curiosity creative pattern.
+- **BROAD-21 (ZH Gifting "他懂我"):** Partner gifting from woman's POV. Venus Pearl. Pre-launch.
+- **BROAD-22 (ZH Blind Date Self-Reliance):** Single woman, bad blind date, drawer reveal. Extends BROAD-17 angle. Venus Pearl. Pre-launch (launch after BROAD-21 signal).
 
 ---
 
