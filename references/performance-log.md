@@ -28,6 +28,16 @@ PATTERN: False negative hook structure untested — watch for CTR vs Broad 10's 
 
 ---
 
+
+## 2026-06-06 — Skit / Accidental Recording | Female (solo + couple win-win) | Playful & Cheeky | Visual (accidental recording)
+
+RESULT: Pending — created 2026-06-06, not yet deployed
+HOOK: Visual — near-dark phone lift, cucumber visible in hand at open, "Oops... I can't show you that" + cucumber swept off-frame. Hook partially executed: dark-to-light transition rendered, cucumber sweep inconsistent across generations.
+BODY FORMAT: Relationship pain ("haven't been doing it for a while") + product as discovery/solution. Solo + couple win-win framing.
+CTA TYPE: Hard verbal — "Link below. Faster. Don't wait." + man walks in through door as relationship proof payoff.
+NOTES: 18.8s after CapCut slowdown. Captions added. Product enters ~sec 11, held ~3s (slightly over 1s guideline). Man walking in at end executed perfectly — strongest moment in the video. Avatar rendered Southeast Asian, not Chinese-Malaysian (ethnicity spec not holding reliably). Selfie POV maintained throughout. BROAD-20 / AD-002.
+PATTERN: Man-walks-in ending confirmed executable by Seedance — strong relationship proof payoff. Accidental recording hook (phone face-down lift) unreliable — Seedance collapses complex multi-action sequences. Watch if skit format converts vs C5 confession baseline.
+
 ## How to Report Results
 
 No specific format needed. Examples:
