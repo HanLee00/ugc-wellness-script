@@ -108,16 +108,16 @@ At RM300:
 **CPM flag:** >RM55 = audience exhaustion or auction pressure. Investigate before acting on CPP.
 **Executive override:** Angle mismatch confirmed before RM150 threshold — may kill early (e.g. BROAD-16 killed at RM18.81 spend, male gifting angle structural mismatch).
 
-## Promotion Protocol: OV2 → OV1
+## Scaling Protocol (revised June 2026)
 
-**Trigger:** spend ≥ RM150 AND CPP < RM84 AND purchases ≥ 3
+**Never duplicate to scale — duplication resets Meta learning.** Scale winning ad sets in place within OV2.
 
-1. Duplicate winning ad set into OV1
-2. Set RM30/day (not RM20, not RM50 — RM30 exits learning faster)
-3. No edits, no budget changes for 7 days
-4. Day 7+: increase to RM50/day if CPP GREEN or YELLOW
-5. Pause weakest OV1 ad set simultaneously
-6. Pause (don't delete) original OV2 version
+- Max 20–30% budget increase per adjustment
+- 5 days between adjustments, no edits
+- OV2 handles both testing (new at RM20) and scaling (winners growing in place)
+- Never run same creative in two campaigns — audience overlap inflates CPM
+
+**Scale path RM20 → RM40:** RM25 (day 0) → RM32 (day 5) → RM40 (day 10)
 
 ---
 
