@@ -32,6 +32,31 @@
 
 ---
 
+## Trend Grading Methodology (locked 2026-06-08)
+
+**Two-band CPP:** Scale bar GREEN <RM50 / YELLOW RM50–80 / RED >RM80. Kill bar GREEN <RM84 / YELLOW RM84–118 / RED >RM118. Never kill below RM118 CPP unless DECLINING + freq <2.5.
+
+**Per-session:** Pull 5 windows (today/3d/7d/30d/max). Grade trend via Leading Indicator Score (LIS): CTR ×0.45, hold rate ×0.25, CPM_inv ×0.20, freq_inv ×0.10. IMPROVING >+0.15, STABLE ±0.15, DECLINING <-0.15. CPP only overrides LIS when ≥4 Shopify purchases in last_30d.
+
+**Spend gates:** GREY <RM150. First read RM150+1 purchase. Confident RM300+3 purchases. Early kill: CTR <2% + 0 purchases at RM100 → RED.
+
+**Output format:** `BROAD-XX | TREND | SCALE/KILL | CPP RM__ (n=__, source) | freq __ | LIS __ | ACTION`
+
+---
+
+## June 8, 2026 — Active Ad Grades
+
+| Ad Set | LIS | Trend | CPP 7d | Bands | Freq | Action |
+|--------|-----|-------|--------|-------|------|--------|
+| BROAD 11 | -0.059 | STABLE | RM38 | GREEN/GREEN | 1.43 | HOLD RM50 |
+| BROAD 17 | +0.032 | STABLE→IMPROVING | RM56 | YELLOW/GREEN | 1.33 | Verify Ad Mgr → scale RM25 if 3+ confirmed |
+| BROAD 19 | -0.098 | STABLE→DECLINING | RM52 | YELLOW/GREEN | 1.33 | HOLD — watch |
+| BROAD 20 | — | GREY | — | — | 1.60 | Wait RM100 |
+| BROAD 21 | — | GREY | — | — | 1.21 | Wait RM100 |
+| BROAD 22 | — | GREY | — | — | 1.30 | 1 API purchase today — verify Ad Mgr |
+
+---
+
 ## June 2026 — Active Ad Status (as of June 5)
 
 | Ad | Angle | Lang | Hook Rate | Hold Rate | Link CTR | CPP | Purchases | Status |
