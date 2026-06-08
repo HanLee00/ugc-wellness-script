@@ -121,17 +121,12 @@ At RM300:
 
 ---
 
-## Next Creatives: BROAD-20, BROAD-21, BROAD-22
+## Active Creatives in OV2 TEST (June 2026)
 
-### BROAD-20 (EN — in queue)
-> Produce and launch into OV2 TEST at RM20/day.
+### BROAD-20 (EN — PAUSED June 8)
+- **Outcome:** RM44 spend, 0 purchases, CTR 4.62%. EN relationship pain angle failed to replicate BROAD-14. Early kill.
 
-- **Language:** English | **Angle:** Relationship pain (inherits BROAD-14 angle, fixed execution)
-- **Core fix:** Slow the arc. Product reveal no earlier than second 9. At least 6 seconds of story before product hint.
-- **CTA:** Direct verbal, playful — "Go to ohvenus.shop." Not soft, not "link in bio."
-- **Avatar:** Natural, no makeup, warm amber night, ECU from second 0. Same spec as C5 winner. 4K.
-
-### BROAD-21 (ZH — pre-launch)
+### BROAD-21 (ZH — active, launched June 7)
 - **Language:** ZH | **Format:** Boyfriend/Gift — woman's POV
 - **Hook:** Man presents gift box, woman opens expecting jewelry, surprised face: "这是……"
 - **Story:** He says "我问过你闺蜜的" → she turns to camera, helpless smile → princess carry → still being carried, turns to camera: "老公好懂我～"
@@ -139,13 +134,29 @@ At RM300:
 - **CTA:** Soft coded. Do not apply hard urgency — register mismatch.
 - **Note:** Woman is protagonist throughout. Structurally distinct from BROAD-16 (killed — man speaking to audience). If converts, opens "partner who gets it" as scalable ZH narrative.
 
-### BROAD-22 (ZH — pre-launch, after BROAD-21 signal)
+### BROAD-22 (ZH — active, launched June 7)
 - **Language:** ZH | **Format:** Bold Admission / Female Self-Reliance
 - **Hook:** Bad blind date return — kicks off heels, turns to camera: "又是一个无聊的相亲"
 - **Story:** Bedroom drawer reveal → quiet relief → "没有男人也可以。我自己来。" → lying back → "男人都没有它厉害。" → slow smile: "单身不苦，苦的是不知道有它。"
 - **Emotional arc:** tired/flat → quiet relief → unbothered confidence → calm certainty
 - **CTA:** Soft coded. Compliance flag: "男人都没有它厉害" moderate risk — soften to "比什么都舒服" if Seedance flags.
 - **Note:** Extends BROAD-17 (confirmed converter, 66.5% hold). Blind date scenario broader than BROAD-17's married-woman framing. Highest-probability next ZH converter.
+
+### BROAD-23 (ZH — active, launched June 8)
+- **Language:** ZH | **Format:** Couple skit / gift reveal — pregnancy safety angle
+- **Hook:** Pregnant woman leans against husband, shyly says "老公……我最近好想跟你…做…"
+- **Story:** Husband produces beU gift box → she opens → he says "我查过了，孕期可以用的。怀孕了，很多事不方便……我们可以暂时靠它帮你解决" → warmth, shared gaze → blanket close
+- **Emotional arc:** shy desire → gift surprise → relief → intimate understanding
+- **Video analysis (June 8):** Wide open (not ECU), product visible at sec 2-3, pregnancy not visually obvious. Lighting ✅. Dialogue ✅. Novel niche angle. **Watch: if pregnancy not clear to audience in 2s, payoff doesn't land.**
+- **Compliance:** Low risk. 孕期可以用的 is factual benefit claim.
+
+### BROAD-24 (ZH — active, launched June 8)
+- **Language:** ZH | **Format:** Confession / female self-reliance — candle night
+- **Hook:** ECU face staring at ceiling, candle glow, husband soft-focus behind: "今天老公又说累了"
+- **Story:** "我们已经三个礼拜没有做了" → drawer opens → Venus Pearl inside → picks up, smiles → kisses product → "老公没有mood～我们自己玩" → candles on table → "我的需求，我自己满足"
+- **Emotional arc:** resignation → knowing amusement → action → satisfied confidence
+- **Video analysis (June 8):** ECU open ✅, candlelight ✅, kiss moment ✅, drawer reveal at sec 4-5 (early but earned). Directly extends BROAD-17. **Highest probability of the new batch.**
+- **Compliance watch:** "我们自己玩" moderate risk — monitor if Meta flags.
 
 ---
 
