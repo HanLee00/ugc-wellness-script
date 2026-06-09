@@ -1,6 +1,6 @@
 # Oh! Venus — UGC Agent Brief
 > Maintained by OHVENUS-KB. Pushed to GitHub after every KB update.
-> Last updated: 2026-06-07
+> Last updated: 2026-06-09
 
 ---
 
@@ -17,16 +17,19 @@
 ## Confirmed Conversion Patterns
 
 - **C5 Relationship Confession converts at 2.5x all other formats** — Ad 10: RM32.39 CPA, 10.66 ROAS, 2.44% LP→Purchase vs next best 0.97%.
-- **Relationship pain angle = best CPP May at RM31.09** (BROAD-14). BROAD-14 retired (weak hold rate 34–37%, 0 June purchases). BROAD-20 inherits the angle with fixed execution.
-- **ZH relatable pain converts** — BROAD-17 (female self-reliance, "When hubby's tired, it's not") has confirmed June purchases. First ZH creative to convert cleanly.
-- **Hold rate is the execution quality signal.** Winning ads hold 48–74%. BROAD-14 was 34–37% — lost people after the hook in both months. Slow the body arc. Don't rush to the product.
-- **Product visible before second 9 = conversion collapse** — Ad 9 (sec 2): 0 purchases. Ad 11 (sec 0 passive): 0.52% CVR. Ad 10 (sec 9): 2.44% CVR. Rule: product not visible in ANY form before second 9.
+- **Relationship pain angle = best CPP May at RM31.09** (BROAD-14). BROAD-14 retired (weak hold rate 34–37%, 0 June purchases). BROAD-20 inherits angle — also failed (0 purchases RM44 spend, killed early).
+- **ZH relatable pain converts** — BROAD-17 confirmed CPP RM57 GREEN (Jun 9). First ZH creative to convert cleanly. See BROAD-17 creative details below.
+- **Personal identification angle beats entertainment angle for cold conversion** — BROAD-17 (personal trigger: "husband tired tonight") CPP RM57 GREEN. BROAD-19 (entertainment: couple drama) CPP RM115 YELLOW-RED. Both ZH, same budget, same period.
+- **Entertainment hooks drive engagement not purchase** — BROAD-19: 9.5% CTR, 73.6% hold rate, CPP RM115 YELLOW-RED. Higher CTR and hold than BROAD-17 — still doesn't convert because viewer watches the drama instead of identifying as a buyer.
+- **Secret-share framing overrides product reveal timing** — BROAD-17 reveals product at sec 2 via girlfriend-secret framing ("姐妹，我有秘密") and converts at CPP RM57. Timing rule (no product before sec 9) applies to demo/presentation reveals only — secret-share emotional context prevents ad-brain trigger.
+- **Hold rate is the execution quality signal.** Winning ads hold 48–74%. BROAD-14 was 34–37% — lost people after hook in both months.
+- **Product visible before second 9 = conversion collapse** — Ad 9 (sec 2): 0 purchases. Ad 11 (sec 0 passive): 0.52% CVR. Ad 10 (sec 9): 2.44% CVR. Exception: secret-share framing (BROAD-17).
 - **Night/amber lighting outperforms daytime** — Ad 10 (night amber): 2.44% CVR. Ad 11 (same script, daytime bright): 0.52% CVR.
 - **English outperforms Mandarin on Meta cold audience** — same concept, Ad 10 English 2.44% vs Ad 11 Mandarin 0.52%. Use Mandarin for warm/retarget only.
-- **Hard urgency CTA outperforms soft/visual CTA** — "Link below. Faster! Don't wait!" >> "懂的都懂" >> visual-only. Pattern confirmed across BROAD-10, 14 (best CPP) vs BROAD-1 (worst CPP).
-- **Hook rate does NOT predict CPP** — BROAD-11: 42.3% hook rate, mid CPP. BROAD-14: 37.2% hook rate, best CPP. Hook rate = creative quality signal, not conversion signal.
-- **Curiosity/suggestive visual hooks drive watch, not wallets** — Ad 9: RM96, 0 purchases. BROAD-19: 72.2% hold rate, 11.7% link CTR, 0 purchases. Entertainment seekers click, don't buy.
-- **Man-buyer framing kills click intent** — BROAD-16 (male gifting): 3.6% link CTR, 16 clicks on RM18.81. BROAD-19 (same budget, suggestive visual): 11.7% CTR, 58 clicks. Buyer is female-directed — male framing produces weak intent.
+- **Hard urgency CTA outperforms soft/visual CTA** — "Link below. Faster! Don't wait!" >> "懂的都懂" >> visual-only. Pattern confirmed BROAD-10, 14 vs BROAD-1. Note: BROAD-17 converted with soft CTA — personal identification angle can overcome CTA weakness.
+- **Hook rate does NOT predict CPP** — BROAD-11: 42.3% hook rate, mid CPP. BROAD-14: 37.2% hook rate, best CPP.
+- **Curiosity/couple drama hooks drive watch, not wallets** — BROAD-19: 72.2% hold, 9.5% CTR, CPP RM115 YELLOW-RED. Entertainment seekers click but don't buy.
+- **Man-buyer framing kills click intent** — BROAD-16 (male gifting): 3.6% link CTR. BROAD-19 same budget: 11.7% CTR. Female-directed buyer.
 - **Expression range is the primary authenticity signal** — Ad 10: 6+ distinct emotional states. Flat delivery = scripted = lower trust.
 - **Moby drives volume (36% orders), Whisper drives revenue (43%)** — product mix determined at browse stage, not ad stage.
 
@@ -44,16 +47,19 @@
 
 ---
 
-## June 8, 2026 — Active Ad Grades
+## June 9, 2026 — Active Ad Grades (5-window baseline locked)
 
-| Ad Set | LIS | Trend | CPP 7d | Bands | Freq | Action |
-|--------|-----|-------|--------|-------|------|--------|
-| BROAD 11 | -0.059 | STABLE | RM38 | GREEN/GREEN | 1.43 | HOLD RM50 |
-| BROAD 17 | +0.032 | STABLE→IMPROVING | RM56 | YELLOW/GREEN | 1.33 | Verify Ad Mgr → scale RM25 if 3+ confirmed |
-| BROAD 19 | -0.098 | STABLE→DECLINING | RM52 | YELLOW/GREEN | 1.33 | HOLD — watch |
-| BROAD 20 | — | GREY | — | — | 1.60 | Wait RM100 |
-| BROAD 21 | — | GREY | — | — | 1.21 | Wait RM100 |
-| BROAD 22 | — | GREY | — | — | 1.30 | 1 API purchase today — verify Ad Mgr |
+| Ad Set | Trend | CPP (Ad Mgr) | Bands | Budget | Next Action |
+|--------|-------|--------------|-------|--------|-------------|
+| BROAD 11 | STABLE | RM65.64 GREEN (Jun 1-6) | GREEN/GREEN | RM50/day | Eligible RM50→RM65 on **Jun 11** if CPP holds |
+| BROAD 17 | IMPROVING | RM57.03 GREEN (Jun 1-6) | YELLOW/GREEN | RM30/day | Scale RM30→RM39 on **Jun 14** |
+| BROAD 19 | DECLINING | RM115.73 YELLOW (Jun 1-6) | RED/YELLOW | RM20/day | HOLD — phantom attribution confirmed. Do not scale. |
+| BROAD 22 | GREY | — | — | RM20/day | Wait RM150 |
+| BROAD 21 | GREY | — | — | RM20/day | Wait RM150 |
+| BROAD 23 | DAY 1 | — | — | RM20/day | Observe only |
+| BROAD 24 | DAY 1 | — | — | RM20/day | Observe only |
+
+**June 9 Shopify:** 4 orders (#1036–1039), RM1,963.35 total. 3 Meta-attributed, 1 organic/direct. All tracked in Events Manager.
 
 ---
 
@@ -164,10 +170,10 @@ At RM300:
 
 | Angle | Creative | Converts? | Why |
 |-------|----------|-----------|-----|
-| Relatable pain — female self-reliance | BROAD-17 | ✅ Yes | Emotional empathy, female-directed, direct relevance |
-| Relationship confession | BROAD-11 | ✅ Yes | Proven C5 structure, ZH-coded |
-| Travel companion | BROAD-18 | ⚠️ Weak | CPP RM93 YELLOW, not improving — niche scenario, small pool |
-| Suggestive visual / drama | BROAD-19 | ❌ 0 purchases | Curiosity creative — high engagement, wrong audience intent |
+| Relatable pain — female self-reliance | BROAD-17 | ✅ CPP RM57 GREEN | Personal identification trigger ("husband tired") → viewer inserts herself as buyer |
+| Relationship confession | BROAD-11 | ✅ CPP RM65 GREEN | C5 structure, ZH-coded, awareness engine |
+| Travel companion | BROAD-18 | ❌ Paused | CPP RM115 YELLOW, not improving — paused Jun 6 |
+| Couple drama / entertainment | BROAD-19 | ❌ CPP RM115 YELLOW-RED | Best engagement (9.5% CTR, 73.6% hold), still doesn't convert. Viewer watches, doesn't buy. |
 | Male gifting POV | BROAD-16 | ❌ Killed | Male framing = wrong buyer lens for this category |
 
 **ZH production rule:** upgrade to 4K only after conversion data confirms the angle works. BROAD-17 converting → consider 4K version next.
@@ -178,11 +184,26 @@ At RM300:
 
 - **BROAD-15 (EN Reframe):** Relationship quality enhancement. Direct verbal CTA. **OFF.**
 - **BROAD-16 (ZH Male POV/Gifting):** Only male-POV creative in batch. **PAUSED June 5** — angle mismatch confirmed.
-- **BROAD-17 (ZH Female Self-Reliance):** Woman awake, partner sleeping. 66.5% hold rate. Converting. Strongest ZH angle in batch.
-- **BROAD-18 (ZH Travel Companion):** Couple packing suitcase. 53.5% hold rate. Has sales, CPP RM93 YELLOW not improving — watch closely.
-- **BROAD-19 (ZH Couple Drama):** Flushed cheeks from frame 1. 72.2% hold rate, 11.7% link CTR — best engagement in batch. 0 purchases. Classic curiosity creative pattern.
-- **BROAD-21 (ZH Gifting "他懂我"):** Couple gifting from woman's POV — surprise reaction, princess carry close. Pre-launch.
-- **BROAD-22 (ZH Blind Date Self-Reliance):** Single woman, bad blind date, drawer reveal. Extends BROAD-17 angle. Pre-launch (launch after BROAD-21 signal).
+- **BROAD-17 (ZH Female Self-Reliance) ⭐ CONFIRMED CONVERTER CPP RM57 GREEN**
+  - Avatar: Chinese-Malay woman, late 20s–30s. Beige ribbed scoop-neck top. Loose dark hair. No jewellery, minimal makeup. No production equipment visible.
+  - Setting: Dark bedroom, single warm amber lamp. Husband sleeping in BG.
+  - Hook: Over-shoulder, man asleep, woman turns to camera conspiratorially. No product.
+  - Reveal: Sec 2 via "姐妹，我有秘密" (girlfriend-secret framing) — does not trigger ad-brain.
+  - Transcript: 老公今天累 → 姐妹，我有秘密要告诉你～ → 平时跟老公一起用，今天他陪不到我 → 我自己玩咯～ → 老公累的时候，它不累🤗
+  - CTA: "老公累的时候，它不累🤗" — SOFT/IMPLIED. No urgency, no link, no pointing.
+  - Why it converts: immediate personal identification ("husband tired tonight" = relatable trigger). Secret-share framing bypasses ad-brain. Solo resolution validates purchase. Night lighting + unpolished avatar = authentic.
+- **BROAD-18 (ZH Travel Companion):** PAUSED June 6 — CPP RM115 YELLOW, weakest ZH batch angle.
+- **BROAD-19 (ZH Couple Drama) ⚠️ ENTERTAINMENT HOOK — DO NOT REPLICATE**
+  - Avatar (F): Chinese woman, early-mid 20s. White spaghetti-strap top. Heavy styled blush on cheeks from frame 1.
+  - Avatar (M): Man, late 20s. White t-shirt.
+  - Setting: Couple's bedroom, two-actor, more cinematic than BROAD-17.
+  - Hook: ECU woman's flushed face, off-screen male voice "你臉好紅". Visual mystery hook.
+  - Product: beU branded device — brand name clearly visible + LED lit. Reveal at sec 6.
+  - Transcript: 你臉好紅/怎麼了 → 沒有沒有正常的 → 要一起玩嗎 → 這個我新買的 → 你幫我弄可以嗎 → OK來 → (kiss) → 沒有人能拒絕它🤗
+  - CTA: "沒有人能拒絕它🤗" — SOFT/IMPLIED. No urgency.
+  - Why it doesn't convert: couple drama = viewer watches, doesn't insert themselves as buyer with personal need. Universal claim ("nobody can resist") lacks personal trigger. Romantic couple resolution doesn't validate solo purchase.
+- **BROAD-21 (ZH Gifting "他懂我"):** Active OV2. Wait RM150.
+- **BROAD-22 (ZH Blind Date Self-Reliance):** Active OV2. Extends BROAD-17 angle. Wait RM150.
 
 ---
 
