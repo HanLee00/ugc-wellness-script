@@ -1,6 +1,6 @@
 # Oh! Venus — UGC Agent Brief
 > Maintained by OHVENUS-KB. Pushed to GitHub after every KB update.
-> Last updated: 2026-06-09
+> Last updated: 2026-06-10
 
 ---
 
@@ -11,6 +11,29 @@
 - **Shopify-verified CPP:** RM90.90 → YELLOW (profitable, not scaling territory)
 - **Blended thresholds:** GREEN <RM84 | YELLOW RM84–118 | RED >RM118
 - Attribution: 7-day click, 1-day engaged-view, 1-day view. Meta CPP is directional only — always verify against Shopify order count.
+
+---
+
+## ⚠️ Critical Platform Alert — Meta Data Restrictions
+
+> Source: meta-andromeda-breakdown (ingested Jun 10). Full detail: wiki/meta-algorithm.md
+
+- **Meta's Jan 2025 health/wellness policy may be blocking Purchase/Add-to-Cart optimization for adult wellness stores.** "Sexual and reproductive health" is explicitly listed as prohibited data.
+- If flagged, Andromeda/GEM lose conversion signal → targeting degrades at the algorithm level — not just tracking, the whole bidding engine.
+- **Immediate audit required:** Events Manager → Settings → Manage data source categories → check restriction tier + "Data restrictions" tab for blocked events.
+- If restricted: shift to Landing Page View / ViewContent optimization. Use neutrally-named server-side custom events. Scrub all URLs of sexual/condition terms.
+- **CAPI EMQ target: >7.** Check Events Manager → Data Sources → dataset → Event Match Quality. Below 7 = degraded learning even without a restriction flag.
+- **CAPI is NOT a restriction bypass** — Meta reads event parameters, not just names.
+
+---
+
+## Meta Algorithm — What Changed (Andromeda/GEM/Lattice)
+
+- **Creative is now your targeting.** Andromeda reads image, video, audio, and copy semantically and matches creative to individual users. Interests and lookalikes are suggestions, not hard constraints.
+- **Entity ID clustering:** Near-duplicate creatives (different color, slight crop, swapped CTA text) collapse to one auction candidate. Only semantically distinct concepts earn separate auction tickets.
+- **Current Oh! Venus creatives likely cluster into ~3 Entity IDs:** EN confessional, ZH female self-reliance, ZH couple drama. Each new concept (format, angle, avatar type, setting, value prop) earns a new ticket.
+- **Broad targeting is correct** — not a concession. Andromeda expands beyond interest seeds when creative signals are strong.
+- **Near-duplicate creative variations are wasted budget** — they compete against each other in the same cluster. Prioritize conceptually different angles, not color/text variations.
 
 ---
 
