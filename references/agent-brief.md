@@ -1,6 +1,7 @@
 # Oh! Venus — UGC Agent Brief
 > Maintained by OHVENUS-KB. Pushed to GitHub after every KB update.
 > Last updated: 2026-06-17
+> Wiki structure: ad-performance (current state) | ad-framework (decision rules) | creative-registry (per-ad specs + confirmed patterns) | ugc-scripts (formats + voice rules)
 
 ---
 
@@ -106,11 +107,11 @@
 | BROAD 22 - 无聊想爱1 | **RM40/day** (raised Jun 17) | RM33 🟢 | RM28 🟢 | GREEN | ✅ Best performer. ROAS 15x (3d). +60% raise executed today. Next check Jun 20. |
 | BROAD 17 | RM48/day | RM54 🟡 | RM77 🟠 | YELLOW | Hold — 3d window weak (2 API purchases). Freq 1.34. Check Jun 19 for 5d Shopify CPP. If ≥3 orders + improving → raise RM48 → RM58. |
 | BROAD 11 - 1stCHINESE | RM30/day | RM74 🟠 | RM49 🟡 | ORANGE→YELLOW | Hold — improving trend. Lowest CPM in account (RM32.50). Check Jun 21 on 5d window Jun 16-20. If CPP ≤RM60 → raise candidate. |
-| BROAD 27 - UPGRADE夜生活 | RM20/day | — | — | GREY | Hold to RM150 (~Jun 19). Hold rate 27.1% DECLINING — mid-video structural drop confirmed. No kill signal (CTR 9.35%). |
-| BROAD 25 - 无聊想爱2 | RM20/day | — | — | GREY | Not delivering Jun 16 — check Meta Ads Manager. CTR 8.72% improving. Hold to RM150. |
-| BROAD 11 DUP | **PAUSED** (Jun 17) | — | 0 purchases | ☠️ | Paused today — RM70 spent, 0 Shopify orders. Budget reallocated to BROAD 22. |
+| BROAD 27 - UPGRADE夜生活 | **PAUSED** | — | — | ☠️ | Ad rejected by Meta Jun 16. Do not reactivate. |
+| BROAD 25 - 无聊想爱2 | **PAUSED** | — | — | ☠️ | Paused by Han Jun 16. |
+| BROAD 11 DUP | **PAUSED** (Jun 17) | — | 0 purchases | ☠️ | Paused Jun 17 — RM70 spent, 0 Shopify orders. Budget reallocated to BROAD 22. |
 
-**Total active daily budget: RM138/day (post-Jun 17 changes)**
+**Total active daily budget: RM118/day (BROAD 22 RM40 + BROAD 17 RM48 + BROAD 11 RM30)**
 
 ### Next decision dates
 | Date | Adset | What to check |
@@ -165,8 +166,8 @@
 | Single self-reliance — blind date | BROAD-22 | ✅ Active RM40 | 🟢 GREEN CPP RM28–33 | Best current performer. Personal identification + self-reliance resolution. |
 | Female self-reliance — sleeping husband secret | BROAD-17 | ✅ Active RM48 | 🟡 YELLOW CPP RM54 | First ZH converter. Secret-share framing bypasses ad-brain. |
 | ZH relationship confession | BROAD-11 | ✅ Active RM30 | 🟠 ORANGE→YELLOW CPP RM74 | Awareness engine. Improving trend. |
-| Couple fatigue — libido recovery | BROAD-27 | ⏳ Grey RM20 | GREY | CTR strong but hold rate declining. Mid-video structural problem. |
-| Single self-reliance — blind date 2 | BROAD-25 | ⏳ Grey RM20 | GREY | CTR improving (8.72%). Not delivering Jun 16 — check delivery. |
+| Couple fatigue — libido recovery | BROAD-27 | ❌ PAUSED | — | Ad rejected by Meta Jun 16. Do not reactivate. |
+| Single self-reliance — blind date 2 | BROAD-25 | ❌ PAUSED | — | Paused by Han Jun 16. |
 | Intimacy frequency — self-care ritual | BROAD-28 | 📋 Pre-launch | — | BROAD-17 variant, wider hook, self-compassion CTA |
 | Postpartum disconnection | BROAD-29 | 📋 Pre-launch | — | Original angle. High intensity pain point. Medium compliance risk. |
 | Self-doubt confession | BROAD-30 | 📋 Pre-launch | — | BROAD-17 variant, heavier hook, same proven punchline |
