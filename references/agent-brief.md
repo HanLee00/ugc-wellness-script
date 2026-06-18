@@ -1,6 +1,6 @@
 # Oh! Venus — UGC Agent Brief
 > Maintained by OHVENUS-KB. Pushed to GitHub after every KB update.
-> Last updated: 2026-06-17
+> Last updated: 2026-06-19
 > Wiki structure: ad-performance (current state) | ad-framework (decision rules) | creative-registry (per-ad specs + confirmed patterns) | ugc-scripts (formats + voice rules)
 
 ---
@@ -51,12 +51,16 @@
 
 **CPP thresholds are profit ambition targets — break-even is RM220. Everything above is still profitable.**
 
-### Scale rules (all conditions must hold)
-- GREEN ≤RM40: ≥3 Shopify orders in 5d window + frequency <2.5 → RAISE
-  - Budget ≤RM50/day: raise +40–60%
-  - Budget >RM50/day: raise +25–30%
-- YELLOW RM41–60: ≥3 Shopify orders + improving trend (recent CPP < lifetime CPP) + freq <2.0 + no CPM spike → raise +20–25% max
-- Never raise >once per 3 days on the same adset
+### Scale rules — REVISED 2026-06-19 (permanent-learning account)
+> The +40-60% GREEN rule is RETIRED. It crashed BROAD 22 (RM25→RM40 = +60% → CPM RM14→RM56, CTR→4.27%, 0 purchases). Full mechanics: outputs/budget-raise-performance-drop-2026-06-19.md.
+- GREEN ≤RM40 or YELLOW RM41–60: ≥3 Shopify orders in 5-7d + CPM flat vs prior window + frequency <2.0 → raise **+15% only (hard cap +20%)** at every budget level.
+- **Cadence: one raise per adset per 7 days** (was 3).
+- **Execute raises early morning** — mid/late-day raises force aggressive pacing → CPM spike.
+- **Post-raise: 4-day hands-off**, then re-grade on full 5-7d window.
+- **Rollback:** within 48h CPM +40% OR CTR -30% OR 0 purchases over 2 days → revert to prior budget, hold 7 days, retry +10%.
+- **Soft adset ceiling ~RM45-50/day** (single Broad + single creative + Lowest cost). Past it CPM 3-4x's.
+- **Prefer horizontal scaling** — add new creatives at RM25-30/day rather than push a winner vertically. Stay adset-budget (not CBO) until account ≥50 Shopify purchases/week.
+- Why it crashes here: finite cheap-intent pool per creative/day + Lowest Cost has no CPM brake + sparse signal (~15-20 conv/week) = slow re-solve. Big raise forces Meta into the expensive marginal impression tier.
 
 ### Kill rules
 - RM150 spend + 0 Shopify orders → immediate pause (no conversion signal)
@@ -73,7 +77,7 @@
 
 ### Review cadence
 - Decisions: 5-day rolling window minimum. Never grade on <3 days.
-- Post-raise: 3-day hands-off, then re-grade on next 5-day window.
+- Post-raise: 4-day hands-off (revised), then re-grade on next 5-7d window.
 - Daily: pacing check only — flag adsets running 0 spend or >20% over budget.
 
 ---
@@ -104,7 +108,7 @@
 
 | Adset | Budget | Lifetime CPP | 3d CPP | Grade | Status |
 |-------|--------|-------------|--------|-------|--------|
-| BROAD 22 - 无聊想爱1 | **RM40/day** (raised Jun 17) | RM33 🟢 | RM28 🟢 | GREEN | ✅ Best performer. ROAS 15x (3d). +60% raise executed today. Next check Jun 20. |
+| BROAD 22 - 无聊想爱1 | **RM40/day → REVERT RM30** | RM33 🟢 | broken | GREEN (broken) | ⚠️ +60% raise Jun 17 crashed it: CPM RM14→RM56, CTR→4.27%, 0 Shopify purchases Jun 17-18. **Revert to RM30, hold flat 7 days.** Old "raise +30% to RM52" plan CANCELLED. |
 | BROAD 17 | RM48/day | RM54 🟡 | RM77 🟠 | YELLOW | Hold — 3d window weak (2 API purchases). Freq 1.34. Check Jun 19 for 5d Shopify CPP. If ≥3 orders + improving → raise RM48 → RM58. |
 | BROAD 11 - 1stCHINESE | RM30/day | RM74 🟠 | RM49 🟡 | ORANGE→YELLOW | Hold — improving trend. Lowest CPM in account (RM32.50). Check Jun 21 on 5d window Jun 16-20. If CPP ≤RM60 → raise candidate. |
 | BROAD 27 - UPGRADE夜生活 | **PAUSED** | — | — | ☠️ | Ad rejected by Meta Jun 16. Do not reactivate. |
@@ -116,9 +120,9 @@
 ### Next decision dates
 | Date | Adset | What to check |
 |------|-------|--------------|
-| Jun 19 | BROAD 17 | 5d Shopify CPP (Jun 14-18). YELLOW + ≥3 orders + improving → raise RM48 → RM58 |
-| Jun 20 | BROAD 22 | 3d post-raise check — CPP holding after +60%? Any degradation? |
-| Jun 21 | BROAD 11 | 5d window Jun 16-20. CPP ≤RM60 → raise candidate |
+| Jun 19 | BROAD 17 | 5d Shopify CPP (Jun 14-18). CPP ≤RM60 + ≥3 orders + CPM flat → raise +15% only (RM48 → ~RM55) |
+| Now | BROAD 22 | REVERT to RM30. Hold flat 7 days. Do NOT raise. |
+| Jun 21 | BROAD 11 | 5d window Jun 16-20. CPP ≤RM60 + ≥3 orders → raise +15% only (~RM34) |
 | Jun 25+ | BROAD 27/25 | RM150 spend gates |
 
 ---
