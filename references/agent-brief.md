@@ -104,62 +104,40 @@
 
 ---
 
-## June 17, 2026 — Active Ad Status
+## June 19, 2026 — Active Ad Status
 
-| Adset | Budget | Lifetime CPP | 3d CPP | Grade | Status |
-|-------|--------|-------------|--------|-------|--------|
-| BROAD 22 - 无聊想爱1 | **RM40/day → REVERT RM30** | RM33 🟢 | broken | GREEN (broken) | ⚠️ +60% raise Jun 17 crashed it: CPM RM14→RM56, CTR→4.27%, 0 Shopify purchases Jun 17-18. **Revert to RM30, hold flat 7 days.** Old "raise +30% to RM52" plan CANCELLED. |
-| BROAD 17 | RM48/day | RM54 🟡 | RM77 🟠 | YELLOW | Hold — 3d window weak (2 API purchases). Freq 1.34. Check Jun 19 for 5d Shopify CPP. If ≥3 orders + improving → raise RM48 → RM58. |
-| BROAD 11 - 1stCHINESE | RM30/day | RM74 🟠 | RM49 🟡 | ORANGE→YELLOW | Hold — improving trend. Lowest CPM in account (RM32.50). Check Jun 21 on 5d window Jun 16-20. If CPP ≤RM60 → raise candidate. |
-| BROAD 27 - UPGRADE夜生活 | **PAUSED** | — | — | ☠️ | Ad rejected by Meta Jun 16. Do not reactivate. |
-| BROAD 25 - 无聊想爱2 | **PAUSED** | — | — | ☠️ | Paused by Han Jun 16. |
-| BROAD 11 DUP | **PAUSED** (Jun 17) | — | 0 purchases | ☠️ | Paused Jun 17 — RM70 spent, 0 Shopify orders. Budget reallocated to BROAD 22. |
+| Adset | Budget | Lifetime CPP | Grade | Status |
+|-------|--------|-------------|-------|--------|
+| BROAD 22 - 无聊想爱1 | RM30/day (reverted Jun 19) | RM33 🟢 | GREEN (recovering) | Reverted from RM40 after Jun 17 raise crash (CPM RM56, 0 purchases). Hold flat to Jun 26. Next raise: +15% only (RM30→RM35) after clean 5-7d GREEN window. |
+| BROAD 17 | RM48/day | RM54 🟡 | YELLOW | Jun 20: pull 5d Shopify CPP (Jun 14-18). ≥3 orders + CPM flat → raise +15% only (~RM55). |
+| BROAD 11 - 1stCHINESE | RM30/day | RM74 🟠 | ORANGE→YELLOW | Jun 21: 5d window Jun 16-20. CPP ≤RM60 + ≥3 orders → raise +15% only (~RM34). |
+| BROAD 29 - 生完孩子多了一道墙 | RM20/day | — | ⬜ GREY | Launched Jun 16. Exceptional early signals (CPM RM14.71, CTR 9.14%). Hold to RM150 cumulative for first grade. Top scale candidate if Shopify confirms. |
+| BROAD 31 - 我忍到很辛苦 | RM20/day | — | ⬜ GREY | Launched Jun 19. Endurance confession → self-reliance. Variation of BROAD-17. First check at RM80 spend. Kill: RM120 + 0 Shopify orders. |
+| BROAD 32 - 老公越累我越有需求 | RM20/day | — | ⬜ GREY | Launched Jun 19. Ironic inversion hook + lamp click-off. Variation of BROAD-17. First check at RM80 spend. Kill: RM120 + 0 Shopify orders. |
 
-**Total active daily budget: RM118/day (BROAD 22 RM40 + BROAD 17 RM48 + BROAD 11 RM30)**
+**Total active daily budget: RM178/day**
 
 ### Next decision dates
 | Date | Adset | What to check |
 |------|-------|--------------|
-| Jun 19 | BROAD 17 | 5d Shopify CPP (Jun 14-18). CPP ≤RM60 + ≥3 orders + CPM flat → raise +15% only (RM48 → ~RM55) |
-| Now | BROAD 22 | REVERT to RM30. Hold flat 7 days. Do NOT raise. |
-| Jun 21 | BROAD 11 | 5d window Jun 16-20. CPP ≤RM60 + ≥3 orders → raise +15% only (~RM34) |
-| Jun 25+ | BROAD 27/25 | RM150 spend gates |
+| Jun 20 | BROAD 17 | 5d Shopify CPP (Jun 14-18). ≥3 orders + CPM flat → raise +15% (RM48→~RM55) |
+| Jun 21 | BROAD 11 | 5d window Jun 16-20. CPP ≤RM60 + ≥3 orders → raise +15% (~RM34) |
+| Jun 26 | BROAD 22 | Hands-off ends. Grade on 5-7d Shopify window. +15% if GREEN. |
+| ~RM150 spend | BROAD 29 | First grade. If ≥1 Shopify order → hold. ≥3 → raise candidate. 0 → pause. |
+| ~RM80 spend | BROAD 31 | First check. Any Shopify orders? 0 at RM120 → kill. |
+| ~RM80 spend | BROAD 32 | First check. Any Shopify orders? 0 at RM120 → kill. |
 
 ---
 
-## Creatives in Pipeline (Pre-Launch)
+## Paused / Killed (June 2026)
 
-### BROAD-28 (ZH — pre-launch, Jun 16)
-- **Angle:** Intimacy frequency confession → self-care ritual
-- **Variation of:** BROAD-17 (same sleeping husband setup, distinct hook)
-- **Hook:** Couple sitting in bed, husband exhausted. Wife still, soft lonely expression. Opens with intimacy frequency drop: "我们夜晚的需求从很频繁到几乎一个月才一次"
-- **Key beat:** Blanket-pull moment — care, not resentment. Emotional safety before reveal.
-- **Product:** Venus Pearl — bedside table reveal under warm lamp (ritual framing)
-- **CTA:** "爱别人之前，我也可以先温柔地照顾自己。" — soft, self-care principle
-- **Compliance flag:** LOW — "仪式感" (ritual) is clean, no coded terms
-- **Why it should work:** Intimacy frequency hook is wider identification than BROAD-17's single-night frame. Blanket care beat removes guilt. "爱别人之前" is most shareable CTA in batch.
-- **⚠️ Flag:** Product may appear in opening camera direction (couple on bed scene) — frame-confirm at launch.
-
-### BROAD-29 (ZH — pre-launch, Jun 16)
-- **Angle:** Post-baby emotional disconnection → self-first → couple reconnection
-- **Original angle** — not represented in any prior BROAD
-- **Hook:** Both on phones in bed, no eye contact. "生完孩子之后，我们之间好像……多了一道墙。"
-- **Key beat:** "要先找回自己，才能找回我们。" — frames solo purchase as relationship investment
-- **Product:** Venus Pearl — bedside table → picked up at emotional turning point
-- **CTA:** "产后妈妈的第一步，也是最重要的一步。" — soft, category positioning
-- **Compliance flag:** MEDIUM — "产后妈妈" may flag Meta wellness content policies. Monitor at launch.
-- **⚠️ Flag:** Product may be visible on bedside table in opening camera direction — frame-confirm at launch.
-- **Why it should work:** Postpartum sexual disconnection is high-intensity, widely felt, rarely addressed in product marketing. Self-recovery resolution removes guilt. Highly specific audience = high identification rate.
-
-### BROAD-30 (ZH — pre-launch, Jun 16)
-- **Angle:** Self-doubt / desire mismatch confession → acceptance → same BROAD-17 punchline
-- **Variation of:** BROAD-17 (same sleeping husband, same CTA punchline)
-- **Hook:** Nudges husband twice, no response. Exhales. Turns to camera quiet and inward. "是不是我不够好看，不够有魅力，不够……" — stops herself.
-- **Key beat:** Self-doubt released (shakes head). Reaches for product. Smile rises. "我没有问题。我只是需求比老公高。"
-- **Product:** Venus Pearl — bedside table reach at emotional turning point, held beside face for CTA
-- **CTA:** "老公累的时候，它不累～" — same as BROAD-17. Soft/implied. Pre-validated landing.
-- **Compliance flag:** LOW — "需求" (needs) coded but clean. Same risk profile as BROAD-17 (confirmed LOW).
-- **Why it should work:** Self-blame → self-acceptance arc catches women who privately blamed themselves — heavier, more vulnerable identification than BROAD-17. "我没有问题" reframe is highest-shareability line in batch. Same proven CTA = only variable is whether heavier hook converts at same rate.
+| Adset | Reason |
+|-------|--------|
+| BROAD 30 - 不够好看不够有魅力 | Paused Jun 19 — weak signals (CTR 4.93%, CPM RM51, hook 28.7%). RM38 spent. |
+| BROAD 28 | Paused Jun 16. ⚠️ Meta name "讲话讲很快的video" does not match KB description — clarify before reactivating. |
+| BROAD 27 - UPGRADE夜生活 | Ad rejected by Meta Jun 16. Do not reactivate. |
+| BROAD 25 - 无聊想爱2 | Paused Jun 16 — Han decision. |
+| BROAD 11 DUP | Paused Jun 17 — RM70 spent, 0 Shopify orders. |
 
 ---
 
@@ -326,18 +304,24 @@ Precise enough that the audience infers correctly; vague enough that the algorit
 > Generated by OHVENUS-KB. Updated: 2026-06-19
 
 **Priority angles to produce (this week):**
-- **[P1] EN — C5 Relationship Confession fresh variant (destined: BROAD-31):** Relaunch BROAD-10 angle as a new video. BROAD-10 had peak CPP RM32 (best EN in account). No active EN ad in roster right now — strategic gap. EN CVR historically 2.44% vs ZH 0.52%. Use C5 structure: night setting, Mia persona, hard urgency CTA, product physically absent before sec 9. New script — do NOT duplicate BROAD-10.
-- **[P2] ZH — Blind Date Self-Reliance variant (destined: BROAD-32):** Fresh variant of BROAD-22's angle for when it fatigues (freq crossing 2.2). Same concept (single woman, blind date night, self-reliance), new hook + new script. Assign as separate adset — do NOT reuse BROAD-22 creative.
+- **[P1] EN — C5 Relationship Confession fresh variant (destined: BROAD-33):** No active EN ad in roster. EN CVR historically 2.44% vs ZH 0.52% — strategic gap. Use C5 structure: night setting, Mia persona, hard urgency CTA, product physically absent before sec 9. New script — do NOT duplicate BROAD-10. BROAD-31/32 used up the BROAD-31/32 slots; next EN is BROAD-33.
+- **[P2] ZH — Blind Date Self-Reliance fresh variant:** BROAD-22 recovered to RM30 post-crash. When freq crosses 2.2, brief a fresh variant of the blind-date angle. New hook + new script. Assign as new adset — do NOT reuse BROAD-22 creative.
+
+**Current active roster (6 ads, RM178/day):**
+- BROAD 22 (RM30) + BROAD 17 (RM48) + BROAD 11 (RM30) — proven/recovering
+- BROAD 29 (RM20) + BROAD 31 (RM20) + BROAD 32 (RM20) — new tests, grey zone
 
 **Fatiguing — watch for fresh variant trigger:**
-- **BROAD-22 (无聊想爱1):** Jun 17 oversized raise crashed it (CPM RM56.72, CTR 4.27%). Reverted to RM30. Monitor frequency — when freq >2.2, brief BROAD-32 variant immediately. Do not raise further.
-- **BROAD-17:** Stable for now (freq 1.34). Next check Jun 20. Brief a fresh variant if freq >2.2 at that check.
+- **BROAD-22:** Reverted RM40→RM30 Jun 19. Hands-off to Jun 26. Monitor freq — when >2.2, brief fresh blind-date variant immediately.
+- **BROAD-17:** Freq 1.34, stable. Next check Jun 20. Brief a fresh variant if freq >2.2 at that check.
 
 **Strategic gaps:**
-- No active EN ad in roster. EN historically outperforms ZH 5:1 (CVR 2.44% vs 0.52%). Fix now — P1 above.
-- BROAD-29 (postpartum) is live testing at RM20/day. Wait for first-read at RM150 before briefing another postpartum variant.
+- No active EN ad in roster. EN historically outperforms ZH 5:1 (CVR 2.44% vs 0.52%). Fix now — P1 above (BROAD-33).
+- BROAD-29 (postpartum) testing at RM20/day. Wait for RM150 first-read before briefing another postpartum variant.
+- BROAD-28 status unclear — Meta label "讲话讲很快的video" doesn't match KB description. Clarify before producing any new variant of that angle.
 
 **Angles to defer this cycle:**
 - Couple drama / entertainment hooks (BROAD-19 confirmed: high CTR, 0 purchases)
 - Male gifting framing (BROAD-16 confirmed: kills click intent)
 - BROAD-27 angle (Meta-rejected — do not resubmit same concept)
+- BROAD-30 angle (self-doubt — paused Jun 19 with weak signals — retry only after 2 other ZH angles confirmed)
